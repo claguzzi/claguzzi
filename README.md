@@ -16,5 +16,6 @@ Estoy abierto al trabajo remoto , presencial o hibrido segun requerimientos
 
 
 CONTACTO ?
+
 claudiolaguzzi@gmail.com
 
