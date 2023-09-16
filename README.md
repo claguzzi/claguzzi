@@ -2,7 +2,7 @@
 
 QUIEN SOY ? 
 
-Soy desarrollador web Full Stack, de Brandsen Argentina, mi pasion por el mundo tech nace desde que estudie en la plataforma SoyHenry y en "Argentina Programa"
+Soy desarrollador web Full Stack, de Argentina, mi pasion por el mundo tech nace desde que estudie en la plataforma SoyHenry y en "Argentina Programa"
 
 TECNOLOGIAS APRENDIDAS ?
 
