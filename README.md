@@ -11,6 +11,7 @@ Mi experiencia dentro del bootcamp de Henry fue el desarrollo de un Single Page 
 
 
 OBJETIVOS TECH ?
+
 Estoy abierto al trabajo remoto , presencial o hibrido segun requerimientos 
 
 
